@@ -1,0 +1,6 @@
+module Pods_customdata {
+  umbrella header "Pods-customdata-umbrella.h"
+
+  export *
+  module * { export * }
+}
